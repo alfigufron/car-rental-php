@@ -1,0 +1,31 @@
+.bg-gradient-primary {
+  background-color: #84142d;
+  background-image: none;
+}
+
+.a-btn-color-primary {
+  color: #84142d;
+}
+
+.a-btn-color-primary:hover {
+  color: #5a0e1e;
+}
+
+.btn-color-primary {
+  background-color: #84142d;
+  color: white;
+}
+
+.btn-color-primary:hover {
+  background-color: #5a0e1e;
+  color: white;
+}
+
+.page-item.active .page-link {
+  background-color: #84142d;
+  border-color: #84142d;
+}
+
+#rent-info-table tr td {
+  padding: 10px 0;
+}
